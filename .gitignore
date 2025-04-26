@@ -1,0 +1,3 @@
+terraform/environments/production/ *.terraform/*
+terraform/environments/production/*.tfstate
+terraform/environments/production/*.tfstate.backup
